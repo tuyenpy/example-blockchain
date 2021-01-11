@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Programming with Jimy <dautugiatriloiphat@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.0.3",
+    "bitcoinjs-lib": "^5.2.0",
+    "ethereumjs-util": "^7.0.7",
+    "hdkey": "^2.0.1"
+  }
 }
